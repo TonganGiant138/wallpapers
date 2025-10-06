@@ -154,7 +154,7 @@ color: #000;
  
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #eae9ee;
+background: #857b7b;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 } 
@@ -182,7 +182,7 @@ background: #DF1521;
 }
  
 .progress {
-background: #f7f7f7;
+background: #857b7b;
 border: 1px solid #000;
 }
  
